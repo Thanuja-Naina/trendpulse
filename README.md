@@ -46,7 +46,3 @@ Example: the top domains in the current local database are:
 ('vt100.net', 1)
 ```
 
-This is a snapshot; the counts can change when the pipeline runs again. You can also add the pipeline's cleaning report and a finding from the charts here.
-
-## Notes
-Books to Scrape is a practice site that allows scraping. Check the terms and robots.txt of any other site first. The Hacker News API needs no key.
